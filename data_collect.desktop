@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Data Collect
+Exec=python3 /home/pi/gui_apps/main.py
+Terminal=false
+Type=Application
